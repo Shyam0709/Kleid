@@ -10,7 +10,7 @@ A full-stack e-commerce application built with the MERN stack (MongoDB, Express.
 ##  Features
 
 ### Customer Frontend
-- 🛍 Product browsing and search
+-  Product browsing and search
 -  Shopping cart management
 -  User authentication (Login/Signup)
 -  Responsive design for all devices
