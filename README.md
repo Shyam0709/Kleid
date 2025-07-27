@@ -232,7 +232,7 @@ POST /api/order/status - Update order status (Admin)
 6. Backend middleware validates token
 7. Access granted to protected routes
 
-## 🛒 Shopping Cart Logic
+##  Shopping Cart Logic
 
 - Cart data stored in React Context
 - Persistent storage in localStorage
