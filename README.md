@@ -35,7 +35,7 @@ A full-stack e-commerce application built with the MERN stack (MongoDB, Express.
 -  Cart management
 -  Payment integration (Razorpay)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend (Customer & Admin)
 - **React.js** 18.3.1 - UI Library
@@ -342,12 +342,16 @@ The project includes `vercel.json` files for easy deployment:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##  Developer
+##  Developers
 
 **N. Aadesh**
+**Shyam sundar**
 - GitHub: [@Aadesh1106](https://github.com/Aadesh1106)
 - LinkedIn: [Aadesh-N](https://linkedin.com/in/Aadesh-N)
 - Email: aadeshn45@gmail.com
+- Github : [@Shyam0709](https://github.com/Shyam0709)
+- LinkedIn : [Shyam Sundar](https://www.linkedin.com/in/shyamsundar0709/)
+  
 
 ##  Acknowledgments
 
