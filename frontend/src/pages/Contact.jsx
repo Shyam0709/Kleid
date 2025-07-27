@@ -18,11 +18,11 @@ const Contact = () => {
         <div className="flex flex-col items-start justify-center gap-6">
           <p className="text-xl font-semibold text-gray-600">Our Store</p>
           <p className="text-gray-500">
-            221 Modern Street <br />
-            Los Angeles, CA 90028, USA
+            221 T Nagar <br />
+            Chennai,TN-600 012,India
           </p>
           <p className="text-gray-500">
-            Tel: (+11)-235-696-557 <br />
+            Tel: (+91) 9876-543-210 <br />
             Email: admin@Kleid.com
           </p>
           <p className="text-xl font-semibold text-gray-600">
