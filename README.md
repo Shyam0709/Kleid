@@ -93,7 +93,7 @@ Kleid/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/kleid-ecommerce.git
+git clone https://github.com/Shyam0709/kleid-ecommerce.git
 cd kleid-ecommerce
 ```
 
